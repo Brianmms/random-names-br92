@@ -11,10 +11,18 @@
     "node",
     "npm"
   ],
-  "author": "Brian Mendivelso <brianm.9297@gmail.com>",
+  "author": "Brian Mendivelso <frlndeveloper@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-names-br92": "./bin/global.js"
+    "random-names-br92": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brianmms/random-names-br92.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Brianmms/random-names-br92/issues"
+  },
+  "homepage": "https://github.com/Brianmms/random-names-br92#readme"
 }
